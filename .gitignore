@@ -1,0 +1,25 @@
+# .NET specific ignores
+**/bin/
+**/obj/
+**/node_modules/
+**/.vs/
+**/.vscode/
+**/.idea/
+**/.angular/
+
+
+
+# Build directories
+/bin
+/obj
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+
+
+# DotNetLocal
+.vs
+
+
